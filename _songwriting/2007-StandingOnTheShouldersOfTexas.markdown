@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Standing On The Shoulders of Texas
+title: Standing On The Shoulders Of Texas
 date: 2007
 ---
 

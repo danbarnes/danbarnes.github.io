@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /poetry/
-title: Songwriting
+permalink: /songwriting/
+title: songwriting
 description: Songwriting is an inactive hobby. Back to it someday!
 ---
 
