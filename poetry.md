@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /songwriting/
-title: songwriting
-description: This is an inactive hobby. Back to it someday!
+permalink: /poetry/
+title: Songwriting
+description: Songwriting is an inactive hobby. Back to it someday!
 ---
 
 <ul class="post-list">
