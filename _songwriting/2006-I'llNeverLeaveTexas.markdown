@@ -5,6 +5,7 @@ date: 2006
 ---
 
 <b>I’ll Never Leave Texas</b>
+By Dan Barnes and Brad Dunse
 
 I can leave half a beer on the table,
 I can leave my dreams unfulfilled.
@@ -54,4 +55,4 @@ Dallas, Houston, Amarillo,
 I'll never leave Texas!
 
 
-Copyright 2006 Dan Barnes and Brad Dunse, all rights reserved
+Copyright 2006 Dan Barnes and Brad Dunse

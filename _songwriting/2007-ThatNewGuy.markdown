@@ -54,4 +54,4 @@ to sell him breakfast, and then
 he'll be that new guy, again.
 
 
-Copyright 2007 Dan Barnes and Brad Dunse, all rights reserved
+Copyright 2007 Dan Barnes and Brad Dunse

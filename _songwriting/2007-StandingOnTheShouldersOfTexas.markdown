@@ -5,6 +5,7 @@ date: 2007
 ---
 
 <b>Standing On The Shoulders Of Texas</b>
+By Dan Barnes and Brad Dunse
 
 I been thumbing my way across Texas
 but today is for thinking.
