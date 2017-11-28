@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /poetry/
-title: poetry
-description: Showcase your writing, short stories, or poems. Replace this text with your description.
+permalink: /songwriting/
+title: songwriting
+description: This is an inactive hobby. Back to it someday!
 ---
 
 <ul class="post-list">
