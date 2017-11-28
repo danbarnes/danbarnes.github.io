@@ -7,9 +7,9 @@ permalink: /about/
 <img class="col one right" src="/img/prof_pic.jpg">
 
 <br/>
-I'm a journalist at heart and by training, a techie by trade and a songwriter in that hypothetical spare time.
+I'm a journalist at heart and by training, a techie by trade and a sometimes a songwriter in my spare time.
 
-I manage a content management system and support and advance newsgathering in <a href="http://startribune.com" target="_blank">Minnesota's largest newsroom</a>.
+I manage a content management system and support and advance reporting, editing and design tools in <a href="http://startribune.com" target="_blank">Minnesota's largest newsroom</a>.
 
 Where to find me:
 <br/>
