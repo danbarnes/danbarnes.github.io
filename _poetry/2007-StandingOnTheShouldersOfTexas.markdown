@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Standing On The Shoulders of Texas
-date: 2015-07-06 07:59:00
+date: 2007
 ---
 
 <b>Standing On The Shoulders Of Texas</b>
@@ -51,4 +51,5 @@ now I understand why.
   Standing on the shoulders of Texas,
   far from alone.
 
-### Copyright 2007 Dan Barnes and Brad Dunse
+
+Copyright 2007 Dan Barnes and Brad Dunse

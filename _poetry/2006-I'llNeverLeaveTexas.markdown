@@ -1,9 +1,8 @@
 ---
 layout: post
 title: I'll Never Leave Texas
-date: 2015-07-06 07:59:00
+date: 2006
 ---
-
 
 <b>I’ll Never Leave Texas</b>
 
@@ -54,4 +53,5 @@ date: 2015-07-06 07:59:00
 	Dallas, Houston, Amarillo,
 	I'll never leave Texas!
 
-### Copyright 2006 Dan Barnes and Brad Dunse, all rights reserved
+
+Copyright 2006 Dan Barnes and Brad Dunse, all rights reserved

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: That New Guy
-date: 2015-08-06 07:59:00
+date: 2007
 ---
 
 <b>That New Guy</b>
@@ -53,4 +53,5 @@ By Dan Barnes and Brad Dunse
     to sell him breakfast, and then
     he'll be that new guy, again.
 
-### Copyright 2007 Dan Barnes and Brad Dunse, all rights reserved
+
+Copyright 2007 Dan Barnes and Brad Dunse, all rights reserved
