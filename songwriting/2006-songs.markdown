@@ -53,7 +53,7 @@ Standing on the shoulders of Texas,<br>
 far from alone.<br>
 
 
-<i>Copyright 2007 Dan Barnes and Brad Dunse</i><br>
+Copyright 2007 Dan Barnes and Brad Dunse<br>
 ---
 
 I'll Never Leave Texas
@@ -107,7 +107,7 @@ call me loco but I know what I know,<br>
 I'll never leave Texas!<br>
 
 
-<i>Copyright 2006 Dan Barnes and Brad Dunse</i><br>
+Copyright 2006 Dan Barnes and Brad Dunse<br>
 ---
 
 That New Guy
@@ -160,5 +160,5 @@ to sell him breakfast, and then<br>
 he'll be that new guy, again.<br>
 
 
-<i>Copyright 2007 Dan Barnes and Brad Dunse</i><br> 
+Copyright 2007 Dan Barnes and Brad Dunse<br>
 ---
