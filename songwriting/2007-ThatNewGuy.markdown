@@ -4,54 +4,54 @@ title: That New Guy
 date: 2007
 ---
 
-That New Guy
-By Dan Barnes and Brad Dunse
+That New Guy<br>
+By Dan Barnes and Brad Dunse<br>
 
-That new guy blows in out of nowhere,
-in an old red Dodge -- heck, it's older than him.
-He's lookin' for honest work, headin' for Houston.
-Comin' through here had to be on a whim.
-He charms every waitress, between his odd jobs.
-Some, they try to be his Yellow Rose.
-But soon, folks are talkin'. Where'd he come from? Who's he seeing?
-And whose heart will bruise when he goes?
+That new guy blows in out of nowhere,<br>
+in an old red Dodge -- heck, it's older than him.<br>
+He's lookin' for honest work, headin' for Houston.<br>
+Comin' through here had to be on a whim.<br>
+He charms every waitress, between his odd jobs.<br>
+Some, they try to be his Yellow Rose.<br>
+But soon, folks are talkin'. Where'd he come from? Who's he seeing?<br>
+And whose heart will bruise when he goes?<br>
 
-Once he had a Yellow Rose.
-Once he was a Mister Right.
-Now he's running from the memory.
-He'll be moving on tonight.
-Come dawn, he'll find a waitress
-to sell him breakfast, and then
-he'll be that new guy, again.
+Once he had a Yellow Rose.<br>
+Once he was a Mister Right.<br>
+Now he's running from the memory.<br>
+He'll be moving on tonight.<br>
+Come dawn, he'll find a waitress<br>
+to sell him breakfast, and then<br>
+he'll be that new guy, again.<br>
 
-That new guy never crashed his new Mustang,
-never lost his true love in the passenger seat.
-No, those scars that he's wearing are all from the Army
-or a demon of a mare, threw him deep in mesquite.
-He struggles each day to keep up his guard
-and his heart behind that friendly wall.
-He jokes and he grins, but it's hokum and it's bluster.
-No waitress ever knows him at all.
+That new guy never crashed his new Mustang,<br>
+never lost his true love in the passenger seat.<br>
+No, those scars that he's wearing are all from the Army<br>
+or a demon of a mare, threw him deep in mesquite.<br>
+He struggles each day to keep up his guard<br>
+and his heart behind that friendly wall.<br>
+He jokes and he grins, but it's hokum and it's bluster.<br>
+No waitress ever knows him at all.<br>
 
-Once he had a Yellow Rose.
-Once he was a Mister Right.
-Now he's running from the memory.
-He'll be moving on tonight.
-Come dawn, he'll find a waitress
-to sell him breakfast, and then
-he'll be that new guy, again.
+Once he had a Yellow Rose.<br>
+Once he was a Mister Right.<br>
+Now he's running from the memory.<br>
+He'll be moving on tonight.<br>
+Come dawn, he'll find a waitress<br>
+to sell him breakfast, and then<br>
+he'll be that new guy, again.<br>
 
-Tonight the Dodge will take him down a dozen dusty roads.
-At every lonely intersection,
-he'll flip a coin which way to go.
+Tonight the Dodge will take him down a dozen dusty roads.<br>
+At every lonely intersection,<br>
+he'll flip a coin which way to go.<br>
 
-Once he had a Yellow Rose.
-Once he was a Mister Right.
-Now he's running from the memory.
-He'll be moving on tonight.
-Come dawn, he'll find a waitress
-to sell him breakfast, and then
-he'll be that new guy, again.
+Once he had a Yellow Rose.<br>
+Once he was a Mister Right.<br>
+Now he's running from the memory.<br>
+He'll be moving on tonight.<br>
+Come dawn, he'll find a waitress<br>
+to sell him breakfast, and then<br>
+he'll be that new guy, again.<br>
 
 
-Copyright 2007 Dan Barnes and Brad Dunse
+Copyright 2007 Dan Barnes and Brad Dunse<br>
