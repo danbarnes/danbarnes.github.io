@@ -160,5 +160,5 @@ to sell him breakfast, and then<br>
 he'll be that new guy, again.<br>
 
 
-Copyright 2007 Dan Barnes and Brad Dunse<br>
+Copyright 2007 Dan Barnes and Brad Dunse <br>
 ---
