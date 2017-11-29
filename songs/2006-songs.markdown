@@ -7,7 +7,7 @@ date: 2006
 Here's a Texas song trilogy that I wrote with my friend, Brad Dunse (braddunsemusic.com).
 
 
-Standing On The Shoulders Of Texas
+Standing On The Shoulders Of Texas<br>
 By Dan Barnes and Brad Dunse<br>
 
 I been thumbing my way across Texas<br>
@@ -59,7 +59,7 @@ far from alone.<br>
 Copyright 2007 Dan Barnes and Brad Dunse<br>
 ---
 
-I'll Never Leave Texas
+I'll Never Leave Texas<br>
 By Dan Barnes and Brad Dunse<br>
 
 I can leave half a beer on the table,<br>
@@ -113,7 +113,7 @@ I'll never leave Texas!<br>
 Copyright 2006 Dan Barnes and Brad Dunse<br>
 ---
 
-That New Guy
+That New Guy(br>)
 By Dan Barnes and Brad Dunse<br>
 
 That new guy blows in out of nowhere,<br>
