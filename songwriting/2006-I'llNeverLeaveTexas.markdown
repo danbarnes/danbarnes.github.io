@@ -53,4 +53,4 @@ call me loco but I know what I know,<br>
 I'll never leave Texas!<br>
 
 
-<i>Copyright 2006 Dan Barnes and Brad Dunse</i><br>
+<i>Copyright 2006 Dan Barnes and Brad Dunse</i><br> 

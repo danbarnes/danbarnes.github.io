@@ -3,7 +3,7 @@ layout: post
 title: That New Guy
 ---
 
-By Dan Barnes and Brad Dunse<br>
+<i>By Dan Barnes and Brad Dunse</i><br>
 
 That new guy blows in out of nowhere,<br>
 in an old red Dodge -- heck, it's older than him.<br>
