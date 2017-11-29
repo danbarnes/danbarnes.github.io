@@ -2,7 +2,7 @@
 layout: page
 permalink: /songwriting/
 title: songwriting
-description: songwriting is an inactive hobby. back to it someday! here are some old songs.
+description: songwriting is an inactive hobby. back to it someday! here are some old songs that i wrote with my friend, <a href=http://www.braddunsemusic.com>brad dunse</a>.
 ---
 
 <ul class="post-list">
