@@ -5,21 +5,24 @@ layout: default
 <div class="header-bar">
   <h1>dan barnes</h1>
   <h2>news technology director/ news technologist/ news nerd</h2>
-  <h3>this site is about learning things by breaking things. watch for falling rocks and broken glass!</h3>
+  <h3>this site is about learning things by breaking things.<p>watch for falling rocks and broken glass!</h3>
   <br/>
   <hr>
   <br/>
 </div>
 
+{% comment %}
 
-<ul class="post-list">
-    {% for post in paginator.posts %}
-      <li>
-        <h2><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-        <p class="post-meta">{{ post.date | date: '%B %-d, %Y — %H:%M' }}</p>
-        <p>{{ post.description }}</p>
-        <br/>
-        <hr/>
-      </li>
-    {% endfor %}
-</ul>
+  <ul class="post-list">
+      {% for post in paginator.posts %}
+        <li>
+          <h2><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+          <p class="post-meta">{{ post.date | date: '%B %-d, %Y — %H:%M' }}</p>
+          <p>{{ post.description }}</p>
+          <br/>
+          <hr/>
+        </li>
+      {% endfor %}
+  </ul>
+
+{% endcomment %}
