@@ -4,13 +4,13 @@ title: I'll Never Leave Texas
 date: 2006
 ---
 
-<b>I’ll Never Leave Texas</b>
+I’ll Never Leave Texas
 By Dan Barnes and Brad Dunse
 
 I can leave half a beer on the table,
 I can leave my dreams unfulfilled.
 I can leave Lubbock for Austin
-with some good hours left unkilled.
+with a few good hours left unkilled.
 I can leave behind honeys who'd kiss me,
 I can leave behind money I'm owed.
 I can leave my mind free to wander
@@ -21,7 +21,7 @@ My mind loves the state it’s in--
 lone star free to roam.
 Fort Worth to Alamo,
 Beaumont to San Antone,
-Dallas, Houston, Amarillo,
+call me loco but I know what I know,
 I'll never leave Texas!
 
 You can take your French vacations.
@@ -38,7 +38,7 @@ My mind loves the state it’s in--
 lone star free to roam.
 Fort Worth to Alamo,
 Beaumont to San Antone,
-Dallas, Houston, Amarillo,
+call me loco but I know what I know,
 I'll never leave Texas!
 
 When I die, you can help me
@@ -51,7 +51,7 @@ My mind loves the state it’s in--
 lone star free to roam.
 Fort Worth to Alamo,
 Beaumont to San Antone,
-Dallas, Houston, Amarillo,
+call me loco but I know what I know,
 I'll never leave Texas!
 
 

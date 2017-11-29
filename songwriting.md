@@ -2,14 +2,14 @@
 layout: page
 permalink: /songwriting/
 title: songwriting
-description: Songwriting is an inactive hobby. Back to it someday!
+description: songwriting is an inactive hobby. back to it someday! here are some old songs.
 ---
 
 <ul class="post-list">
-{% for poem in site.songwriting reversed %}
+{% for song in site.songwriting reversed %}
     <li>
-        <h2><a class="poem-title" href="{{ poem.url | prepend: site.baseurl }}">{{ poem.title }}</a></h2>
-        <p class="post-meta">{{ poem.date | date: '%B %-d, %Y — %H:%M' }}</p>
+        <h2><a class="song-title" href="{{ song.url | prepend: site.baseurl }}">{{ song.title }}</a></h2>
+        <p class="post-meta">{{ song.date | date: '%Y' }}</p>
       </li>
 {% endfor %}
 </ul>

@@ -4,7 +4,7 @@ title: That New Guy
 date: 2007
 ---
 
-<b>That New Guy</b>
+That New Guy
 By Dan Barnes and Brad Dunse
 
 That new guy blows in out of nowhere,

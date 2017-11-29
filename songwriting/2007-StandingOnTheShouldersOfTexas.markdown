@@ -4,7 +4,7 @@ title: Standing On The Shoulders Of Texas
 date: 2007
 ---
 
-<b>Standing On The Shoulders Of Texas</b>
+Standing On The Shoulders Of Texas
 By Dan Barnes and Brad Dunse
 
 I been thumbing my way across Texas
@@ -25,7 +25,7 @@ far from alone.
 
 My baby sister is waiting in Dallas
 with a sofa to camp on.
-We're gonna drive to that old church in Marshall,
+We're gonna drive to that old church in Marshall
 where Mom and Dad lie.
 Dad never spoke of the jungles he fought in,
 now I understand why.
@@ -41,8 +41,8 @@ far from alone.
 
 Two days ago, I rode with an old Navy chaplain.    
 He said, Iraq or Korea, you carry on the same.
-You’re breathing life into the memory of the fallen.
-Standing in their sea of white stones,
+You’re breathing life into the memory of the fallen,
+standing in their sea of white stones,
 saluting their names.
 
 Well, it’s a start on a reason to be safe,

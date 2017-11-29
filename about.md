@@ -7,9 +7,9 @@ permalink: /about/
 <img class="col one right" src="/img/prof_pic.jpg">
 
 <br/>
-I'm a journalist at heart and by training, a techie by trade and a sometimes a songwriter in my spare time.
+I'm a journalist at heart and by training, a techie by trade and a sometimes-songwriter.
 
-I manage a content management system and support and advance reporting, editing and design tools in <a href="http://startribune.com" target="_blank">Minnesota's largest newsroom</a>.
+In <a href="http://startribune.com" target="_blank">Minnesota's largest newsroom</a>, I manage whatever content management system is currently ours for newsgathering and print purposes and I research CMS options for the future. I also support and advance other tools for reporting, editing and design. I speak journalism and IT and I do a lot of translating back and forth. I'm a builder, working as needed in VBscript and Javascript and Applescript and (horrors!) the Windows command shell script language. A newsroom our size is a factory, not an artisan's workshop.    
 
 Where to find me:
 <br/>
@@ -23,5 +23,5 @@ Where to find me:
 </span>
 
 <div class="col three caption">
-	Email's the best way to reach me.
+	Yes, email's still the best way to reach me.
 </div>
