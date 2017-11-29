@@ -1,11 +1,9 @@
 ---
 layout: post
 title: I'll Never Leave Texas
-date: 2006
 ---
 
-I’ll Never Leave Texas<br>
-By Dan Barnes and Brad Dunse<br>
+<i>By Dan Barnes and Brad Dunse</i><br>
 
 I can leave half a beer on the table,<br>
 I can leave my dreams unfulfilled.<br>
@@ -55,5 +53,4 @@ call me loco but I know what I know,<br>
 I'll never leave Texas!<br>
 
 
-Copyright 2006 Dan Barnes and Brad Dunse<br>
- 
+<i>Copyright 2006 Dan Barnes and Brad Dunse</i><br>

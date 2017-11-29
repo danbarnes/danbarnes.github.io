@@ -1,11 +1,9 @@
 ---
 layout: post
 title: Standing On The Shoulders Of Texas
-date: 2007
 ---
 
-Standing On The Shoulders Of Texas<br>
-By Dan Barnes and Brad Dunse<br>
+<i>By Dan Barnes and Brad Dunse</i><br>
 
 I been thumbing my way across Texas<br>
 but today is for thinking.<br>
@@ -53,5 +51,4 @@ Standing on the shoulders of Texas,<br>
 far from alone.<br>
 
 
-Copyright 2007 Dan Barnes and Brad Dunse<br>
- 
+<i>Copyright 2007 Dan Barnes and Brad Dunse</i><br>

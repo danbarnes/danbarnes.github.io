@@ -1,10 +1,8 @@
 ---
 layout: post
 title: That New Guy
-date: 2007
 ---
 
-That New Guy<br>
 By Dan Barnes and Brad Dunse<br>
 
 That new guy blows in out of nowhere,<br>
@@ -54,5 +52,4 @@ to sell him breakfast, and then<br>
 he'll be that new guy, again.<br>
 
 
-Copyright 2007 Dan Barnes and Brad Dunse<br>
- 
+<i>Copyright 2007 Dan Barnes and Brad Dunse</i><br>
