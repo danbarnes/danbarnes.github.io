@@ -4,14 +4,9 @@ title: songs
 date: 2006
 ---
 
-A few years ago, I spent a few years writing country songs. I've always been a writer and country is the last lyric-driven pop music genre.<br>
-<br>
-Here's a Texas song trilogy that I wrote with my friend, Brad Dunse.<br>
-<br>
-I'll get some recordings linked here eventually.<br>
-All copyright 2007 Dan Barnes and Brad Dunse<br>
+A few years ago, I spent a few years writing country songs in a very amateur way. I've always been a writer and country is the last lyric-driven pop music genre, so when I stumbled onto a songwriting workshop faculty show one night in Nashville, I was hooked. But I'd always been a jazz fan, so it was a corner turn to think country. Here's a Texas song trilogy that I wrote with my friend, Brad Dunse, who lived in Texas for a while. I'll get some recordings linked here eventually. These lyrics are copyright 2007, Dan Barnes and Brad Dunse.<br>
 
-
+---
 Standing On The Shoulders Of Texas<br>
 By Dan Barnes and Brad Dunse<br>
 
@@ -61,7 +56,6 @@ Standing on the shoulders of Texas,<br>
 far from alone.<br>
 
 ---
-
 I'll Never Leave Texas<br>
 By Dan Barnes and Brad Dunse<br>
 
@@ -113,7 +107,6 @@ call me loco but I know what I know,<br>
 I'll never leave Texas!<br>
 
 ---
-
 That New Guy<br>
 By Dan Barnes and Brad Dunse<br>
 
