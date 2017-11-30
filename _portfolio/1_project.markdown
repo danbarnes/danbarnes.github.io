@@ -18,21 +18,16 @@ img: /img/14.jpg
 	<img class="col three" src="{{ site.baseurl }}/img/5.jpg" alt="" title="image 4"/>
 </div>
 <div class="col three caption">
-	Some more verbiage.
+Master bedroom.
 </div>
-
-Verbiage about how we *bled* for this project.
 
 <div class="img_row">
 	<img class="col two" src="{{ site.baseurl }}/img/4.jpg" alt="" title="image 5"/>
 	<img class="col one" src="{{ site.baseurl }}/img/6.jpg" alt="" title="image 6"/>
 </div>
 <div class="col three caption">
-L to R: Master BR. Stair tower and Moooi.
+L to R: Stair tower and stair tower.
 </div>
-
-
-<br/><br/><br/>
 
 
 Yet more verbiage...
