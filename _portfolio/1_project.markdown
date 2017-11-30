@@ -1,7 +1,7 @@
 ---
 layout: post
 title: a wild new house
-description: some detail photos of the completely reimagined home i share with my wife elaine, mostly of the stair tower that's different every day. architecture by <a href=http://www.deanarch.com/RESIDENTIAL/1>christian dean and jessica harner</a>.
+description: some details of the reimagined home i share with elaine.
 img: /img/14.jpg
 ---
 
@@ -12,10 +12,10 @@ img: /img/14.jpg
 	<img class="col one" src="{{ site.baseurl }}/img/3.jpg" alt="" title="image 3"/>
 </div>
 <div class="col three caption">
-	Some verbiage here.
+	L to R: Looking up into the stair tower from the dining room. Ludowici tile exterior. Moooi pendant in the stair tower.
 </div>
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/4.jpg" alt="" title="image 4"/>
+	<img class="col three" src="{{ site.baseurl }}/img/5.jpg" alt="" title="image 4"/>
 </div>
 <div class="col three caption">
 	Some more verbiage.
@@ -24,11 +24,11 @@ img: /img/14.jpg
 Verbiage about how we *bled* for this project.
 
 <div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/5.jpg" alt="" title="image 5"/>
+	<img class="col two" src="{{ site.baseurl }}/img/4.jpg" alt="" title="image 5"/>
 	<img class="col one" src="{{ site.baseurl }}/img/6.jpg" alt="" title="image 6"/>
 </div>
 <div class="col three caption">
-	You can also have artistically styled 2/3 + 1/3 images, like these.
+L to R: Master BR. Stair tower and Moooi.
 </div>
 
 
