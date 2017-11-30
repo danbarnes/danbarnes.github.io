@@ -4,7 +4,9 @@ title: songs
 date: 2006
 ---
 
-Here's a Texas song trilogy that I wrote with my friend, Brad Dunse (braddunsemusic.com).
+Here's a Texas song trilogy that I wrote with my friend, <a href=http://www.braddunsemusic.com>Brad Dunse</a>.<br>
+I'll get some recordings linked here eventually.<br>
+All copyright 2007 Dan Barnes and Brad Dunse<br>
 
 
 Standing On The Shoulders Of Texas<br>
@@ -55,8 +57,6 @@ standing on the shoulders of Texas.<br>
 Standing on the shoulders of Texas,<br>
 far from alone.<br>
 
-
-Copyright 2007 Dan Barnes and Brad Dunse<br>
 ---
 
 I'll Never Leave Texas<br>
@@ -109,8 +109,6 @@ Beaumont to San Antone,<br>
 call me loco but I know what I know,<br>
 I'll never leave Texas!<br>
 
-
-Copyright 2006 Dan Barnes and Brad Dunse<br>
 ---
 
 That New Guy(br>)
@@ -162,6 +160,4 @@ Come dawn, he'll find a waitress<br>
 to sell him breakfast, and then<br>
 he'll be that new guy, again.<br>
 
-
-Copyright 2007 Dan Barnes and Brad Dunse <br>
 ---
