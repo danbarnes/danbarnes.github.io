@@ -2,7 +2,7 @@
 layout: post
 title: a wild new house
 description: some details of the reimagined home i share with elaine.
-img: /img/14.jpg
+img: /img/14.JPG
 ---
 
 
