@@ -4,7 +4,10 @@ title: songs
 date: 2006
 ---
 
-Here's a Texas song trilogy that I wrote with my friend, <a href=http://www.braddunsemusic.com>Brad Dunse</a>.<br>
+A few years ago, I spent a few years writing country songs. I've always been a writer and country is the last lyric-driven pop music genre.<br>
+<br>
+Here's a Texas song trilogy that I wrote with my friend, Brad Dunse.<br>
+<br>
 I'll get some recordings linked here eventually.<br>
 All copyright 2007 Dan Barnes and Brad Dunse<br>
 
@@ -111,7 +114,7 @@ I'll never leave Texas!<br>
 
 ---
 
-That New Guy(br>)
+That New Guy<br>
 By Dan Barnes and Brad Dunse<br>
 
 That new guy blows in out of nowhere,<br>
