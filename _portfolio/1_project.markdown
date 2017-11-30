@@ -1,15 +1,10 @@
 ---
 layout: post
-title: our big reno
-description: our house was "atomic ranch" and now it's solidly "dwell."
-img: /img/12.jpg
+title: a wild new house
+description: some detail photos of the completely reimagined home i share with my wife elaine, mostly of the stair tower that's different every day. architecture by <a href=http://www.deanarch.com/RESIDENTIAL/1>christian dean and jessica harner</a>.
+img: /img/14.jpg
 ---
 
-	layout: post
-	title: a wild new house
-	description: photos of the completely reimagined home i share with my wife elaine. this was a 1955 ranch!
-	img: /img/10.jpg
-	---
 
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="image 1"/>
