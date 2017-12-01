@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: a wild new house
 description: some details of the reimagined home i share with elaine.
 img: /img/11.JPG
