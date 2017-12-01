@@ -12,13 +12,13 @@ Elaine and I always wanted to revamp our 1955 ranch. After many years, over 2015
 	<img class="col one" src="{{ site.baseurl }}/img/3.jpg" alt="" title="image 3"/>
 </div>
 <div class="col three caption">
-	L to R: Looking up into the stair tower from the dining room. Ludowici tile exterior. Moooi Random pendant in the stair tower.
+	L to R: Looking up into the stair tower from the dining room. Moooi Random pendant in the stair tower.
 </div>
 
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/11.jpg" alt="" title="image 1"/>
-	<img class="col one" src="{{ site.baseurl }}/img/12.jpg" alt="" title="image 2"/>
-	<img class="col one" src="{{ site.baseurl }}/img/14.jpg" alt="" title="image 3"/>
+	<img class="col one" src="{{ site.baseurl }}/img/11.jpg" alt="" title="image 11"/>
+	<img class="col one" src="{{ site.baseurl }}/img/12.jpg" alt="" title="image 12"/>
+	<img class="col one" src="{{ site.baseurl }}/img/14.jpg" alt="" title="image 14"/>
 </div>
 <div class="col three caption">
 	Three: Stair tower and upper hallway.
@@ -32,7 +32,7 @@ Master bedroom.
 </div>
 
 <div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/4.jpg" alt="" title="image 9"/>
+	<img class="col two" src="{{ site.baseurl }}/img/4.jpg" alt="" title="image 4"/>
 	<img class="col one" src="{{ site.baseurl }}/img/6.jpg" alt="" title="image 6"/>
 </div>
 <div class="col three caption">
@@ -41,9 +41,9 @@ L to R: Stair tower above and stair tower below.
 
 
 <div class="img_row">
-  <img class="col two" src="/img/7.jpg"/>
-  <img class="col one" src="/img/8.jpg"/>
+  <img class="col one" src="{{ site.baseurl }}/img/7.jpg" alt="" title="image 7"/>
+  <img class="col two" src="{{ site.baseurl }}/img/8.jpg" alt="" title="image 8"/>
 </div>
 <div class="col three caption">
-L to R: Something.
+L to R: Light on and light off.
 </div>
