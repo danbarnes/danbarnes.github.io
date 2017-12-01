@@ -9,7 +9,7 @@ permalink: /about/
 <br/>
 I'm a journalist at heart and by training, a techie by trade and a sometime-songwriter. When I'm not doing genealogy.
 
-In <a href="http://startribune.com" target="_blank">Minnesota's largest newsroom</a>, I've managed a series of content management systems for newsgathering and print purposes. I also support and advance other tools for reporting, editing and design. These days, I also research CMS options for the future. I speak journalese and ITisms and I do a lot of translating back and forth. I'm a teacher and I'm a herder of cats. I'm a builder, working as needed in VBscript and Javascript and Applescript and (horrors!) Windows' command shell language, on the centrally managed computers of our newsroom -- which, like any newsroom our size, is more factory than artisan workshop.
+In <a href="http://startribune.com" target="_blank">Minnesota's largest newsroom</a>, I've managed a series of content management systems for newsgathering and print purposes. I also support and advance other tools for reporting, editing and design. These days, I'm research options for yet another big CMS change. I speak journalese and ITisms and I do a lot of translating back and forth. I'm a teacher and I'm a herder of cats. I'm a builder, working as needed in VBscript and Javascript and Applescript and (horrors!) Windows' command shell language, on the centrally managed computers of our newsroom -- which, like any newsroom our size, is more factory than artisan workshop.
 
 <br/>
 <hr/>
