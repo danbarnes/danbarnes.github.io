@@ -5,11 +5,10 @@ description: some details of the reimagined home i share with elaine.
 img: /img/2.JPG
 ---
 
-Elaine and I always wanted to revamp our 1955 ranch. After many years, over 2015-2017 we finally did, with architecture by Christian Dean and Jessica Harner. These photos are details of the results, largely from my favorite part of the house, the stair tower. It's different every day.
+Elaine and I always wanted to revamp our 1955 ranch. After many years, over 2015-2017 we finally did, with architecture by Christian Dean and Jessica Harner. These photos are details of the results, mostly from my favorite part of the house, the stair tower. It's different every day.
 
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="image 1"/>
-	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="" title="image 2"/>
 	<img class="col one" src="{{ site.baseurl }}/img/3.jpg" alt="" title="image 3"/>
 </div>
 <div class="col three caption">
