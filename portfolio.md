@@ -1,15 +1,16 @@
 ---
 layout: page
-title: portfolio
+title: portfolio galleries
 permalink: /portfolio/
 ---
 
 {% for project in site.portfolio %}
 
 {% if project.redirect %}
+
 <div class="project">
     <div class="thumbnail">
-        <a href="{{ project.redirect }}" target="_blank">
+        <a href="{{ project.redirect }}" target="blank">
         {% if project.img %}
         <img class="thumbnail" src="{{ project.img }}"/>
         {% else %}
@@ -18,11 +19,13 @@ permalink: /portfolio/
         <span>
             <h1>{{ project.title }}</h1>
             <br/>
+            <h2>
             <p>{{ project.description }}</p>
         </span>
         </a>
     </div>
 </div>
+
 {% else %}
 
 <div class="project">
