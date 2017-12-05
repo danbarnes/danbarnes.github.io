@@ -2,7 +2,7 @@
 layout: page
 title: a wild new house
 description: some details of the reimagined home i share with elaine.
-img: /img/2_10pct.JPG
+img: /img/2_10_pct.JPG
 ---
 
 Elaine and I always wanted to revamp our 1955 ranch. After many years, over 2015-2017 we finally did, with architecture by Christian Dean and Jessica Harner. These photos are details of the results, mostly from my favorite part of the house, the stair tower. It's different every day.
