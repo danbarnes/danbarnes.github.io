@@ -4,9 +4,10 @@ title: songs
 date: 2006
 ---
 
-A few years ago, I spent a four years on a new hobby: Writing country songs. I've always been a writer who loved short, short fiction, and country is the last lyric-driven pop music genre, so when I stumbled onto a songwriting workshop faculty show one night in Nashville, I was hooked. But I'd always been a jazz fan, so it was a corner turn to think country! Here's a Texas song trilogy that I wrote with my friend, Brad Dunse, who lived in Texas for a while. I'll get some of Brad's swell recordings linked here eventually. These lyrics are copyright 2007, Dan Barnes and Brad Dunse.<br>
+A few years ago, I spent a four years on a new hobby: Writing country songs. I've always been a writer who loved short, short fiction, and country is the last lyric-driven pop music genre, so when I stumbled onto a songwriting workshop faculty show one night in Nashville, I was hooked. But I'd always been a jazz fan, so it was a corner turn to think country! Here are lyrics to a Texas song trilogy that I wrote with my friend, Brad Dunse, who lived in Texas for a while. I'll get some of Brad's swell recordings linked here eventually. These lyrics are copyright 2007, Dan Barnes and Brad Dunse.<br>
 
 ---
+<br>
 Standing On The Shoulders Of Texas<br>
 By Dan Barnes and Brad Dunse<br>
 
