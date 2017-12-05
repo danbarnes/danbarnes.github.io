@@ -19,7 +19,7 @@ permalink: /portfolio/
         <span>
             <h1>{{ project.title }}</h1>
             <br/>
-            <h2>
+            <h2> 
             <p>{{ project.description }}</p>
         </span>
         </a>
