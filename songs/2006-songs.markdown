@@ -14,152 +14,152 @@ Here are lyrics to three songs from 2007 that my friend [Brad Dunse](https://bra
 
 
 **Standing On The Shoulders Of Texas**
-By Dan Barnes and Brad Dunse
+By Dan Barnes and Brad Dunse<br>
 
-I been thumbing my way across Texas
-but today is for thinking.
-Midland traffic ain’t picking up hitchers,
-not the duffel bag kind.
-I’ve lightened my load with each day on the road,
-but some things just won't leave my  mind.
+I been thumbing my way across Texas<br>
+but today is for thinking.<br>
+Midland traffic ain’t picking up hitchers,<br>
+not the duffel bag kind.<br>
+I’ve lightened my load with each day on the road,<br>
+but some things just won't leave my  mind.<br>
 
-Standing on the shoulders of Texas,
-I can see Baghdad.
-I can see buddies who weren't so lucky,
-whose families are crying.
-I can’t see  the reason that I’m safe,
-flesh and bone.
-Standing on the shoulders of Texas,
-far from alone.
+Standing on the shoulders of Texas,<br>
+I can see Baghdad.<br>
+I can see buddies who weren't so lucky,<br>
+whose families are crying.<br>
+I can’t see  the reason that I’m safe,<br>
+flesh and bone.<br>
+Standing on the shoulders of Texas,<br>
+far from alone.<br>
 
-My baby sister is waiting in Dallas
-with a sofa to camp on.
-We're gonna drive to that old church in Marshall
-where Mom and Dad lie.
-Dad never spoke of the jungles he fought in,
-now I understand why.
+My baby sister is waiting in Dallas<br>
+with a sofa to camp on.<br>
+We're gonna drive to that old church in Marshall<br>
+where Mom and Dad lie.<br>
+Dad never spoke of the jungles he fought in,<br>
+now I understand why.<br>
 
-Standing on the shoulders of Texas,
-I can see Baghdad.
-I can see buddies who weren't so lucky,
-whose families are crying.
-I can’t see  the reason that I’m safe,
-flesh and bone.
-Standing on the shoulders of Texas,
-far from alone.
+Standing on the shoulders of Texas,<br>
+I can see Baghdad.<br>
+I can see buddies who weren't so lucky,<br>
+whose families are crying.<br>
+I can’t see  the reason that I’m safe,<br>
+flesh and bone.<br>
+Standing on the shoulders of Texas,<br>
+far from alone.<br>
 
-Two days ago, I rode with an old Navy chaplain.
-He said, Iraq or Korea, you carry on the same.
-You’re breathing life into the memory of the fallen,
-standing in their sea of white stones,
-saluting their names.
+Two days ago, I rode with an old Navy chaplain.<br>
+He said, Iraq or Korea, you carry on the same.<br>
+You’re breathing life into the memory of the fallen,<br>
+standing in their sea of white stones,<br>
+saluting their names.<br>
 
-Well, it’s a start on a reason to be safe,
-flesh and bone.
-Standing on the shoulders of Texas,
-standing on the shoulders of Texas.
-Standing on the shoulders of Texas,
-far from alone.
+Well, it’s a start on a reason to be safe,<br>
+flesh and bone.<br>
+Standing on the shoulders of Texas,<br>
+standing on the shoulders of Texas.<br>
+Standing on the shoulders of Texas,<br>
+far from alone.<br>
 
 ---
 **I'll Never Leave Texas**
 By Dan Barnes and Brad Dunse
 
-I can leave half a beer on the table,
-I can leave my dreams unfulfilled.
-I can leave Lubbock for Austin
-with a few good hours left unkilled.
-I can leave behind honeys who'd kiss me,
-I can leave behind money I'm owed.
-I can leave my mind free to wander
-but Texas has my heart lassoed.
+I can leave half a beer on the table,<br>
+I can leave my dreams unfulfilled.<br>
+I can leave Lubbock for Austin<br>
+with a few good hours left unkilled.<br>
+I can leave behind honeys who'd kiss me,<br>
+I can leave behind money I'm owed.<br>
+I can leave my mind free to wander<br>
+but Texas has my heart lassoed.<br>
 
-I'll never leave Texas... oh no, no.
-My mind loves the state it’s in--
-lone star free to roam.
-Fort Worth to Alamo,
-Beaumont to San Antone,
-call me loco but I know what I know,
-I'll never leave Texas!
+I'll never leave Texas... oh no, no.<br>
+My mind loves the state it’s in--<br>
+lone star free to roam.<br>
+Fort Worth to Alamo,<br>
+Beaumont to San Antone,<br>
+call me loco but I know what I know,<br>
+I'll never leave Texas!<br>
 
-You can take your French vacations.
-You can take your New York trends.
-You can take this song to Nashville
-but that's not my style, my friend.
-You can take me for some kind of no-good.
-You can take me to task for my ways.
-You can take this state for granted
-but this Texan’s still amazed.
+You can take your French vacations.<br>
+You can take your New York trends.<br>
+You can take this song to Nashville<br>
+but that's not my style, my friend.<br>
+You can take me for some kind of no-good.<br>
+You can take me to task for my ways.<br>
+You can take this state for granted<br>
+but this Texan’s still amazed.<br>
 
-I'll never leave Texas... oh no, no.
-My mind loves the state it’s in--
-lone star free to roam.
-Fort Worth to Alamo,
-Beaumont to San Antone,
-call me loco but I know what I know,
-I'll never leave Texas!
+I'll never leave Texas... oh no, no.<br>
+My mind loves the state it’s in--<br>
+lone star free to roam.<br>
+Fort Worth to Alamo,<br>
+Beaumont to San Antone,<br>
+call me loco but I know what I know,<br>
+I'll never leave Texas!<br>
 
-When I die, you can help me
-make sure I stay at home.
-Give my ashes to the west wind
-blowing down that Texas road.
+When I die, you can help me<br>
+make sure I stay at home.<br>
+Give my ashes to the west wind<br>
+blowing down that Texas road.<br>
 
-I'll never leave Texas... oh no, no.
-My mind loves the state it’s in--
-lone star free to roam.
-Fort Worth to Alamo,
-Beaumont to San Antone,
-call me loco but I know what I know,
-I'll never leave Texas!
+I'll never leave Texas... oh no, no.<br>
+My mind loves the state it’s in--<br>
+lone star free to roam.<br>
+Fort Worth to Alamo,<br>
+Beaumont to San Antone,<br>
+call me loco but I know what I know,<br>
+I'll never leave Texas!<br>
 
 ---
 **That New Guy**
 By Dan Barnes and Brad Dunse
 
-That new guy blows in out of nowhere,
-in an old red Dodge -- heck, it's older than him.
-He's lookin' for honest work, headin' for Houston.
-Comin' through here had to be on a whim.
-He charms every waitress, between his odd jobs.
-Some, they try to be his Yellow Rose.
-But soon, folks are talkin'. Where'd he come from? Who's he seeing?
-And whose heart will bruise when he goes?
+That new guy blows in out of nowhere,<br>
+in an old red Dodge -- heck, it's older than him.<br>
+He's lookin' for honest work, headin' for Houston.<br>
+Comin' through here had to be on a whim.<br>
+He charms every waitress, between his odd jobs.<br>
+Some, they try to be his Yellow Rose.<br>
+But soon, folks are talkin'. Where'd he come from? Who's he seeing?<br>
+And whose heart will bruise when he goes?<br>
 
-Once he had a Yellow Rose.
-Once he was a Mister Right.
-Now he's running from the memory.
-He'll be moving on tonight.
-Come dawn, he'll find a waitress
-to sell him breakfast, and then
-he'll be that new guy again.
+Once he had a Yellow Rose.<br>
+Once he was a Mister Right.<br>
+Now he's running from the memory.<br>
+He'll be moving on tonight.<br>
+Come dawn, he'll find a waitress<br>
+to sell him breakfast, and then<br>
+he'll be that new guy again.<br>
 
-That new guy never crashed his new Mustang,
-never lost his true love in the passenger seat.
-No, those scars that he's wearing are all from the Army
-or a demon of a mare, threw him deep in mesquite.
-He struggles each day to keep up his guard
-and his heart behind that friendly wall.
-He jokes and he grins, but it's hokum and it's bluster.
-No waitress ever knows him at all.
+That new guy never crashed his new Mustang,<br>
+never lost his true love in the passenger seat.<br>
+No, those scars that he's wearing are all from the Army<br>
+or a demon of a mare, threw him deep in mesquite.<br>
+He struggles each day to keep up his guard<br>
+and his heart behind that friendly wall.<br>
+He jokes and he grins, but it's hokum and it's bluster.<br>
+No waitress ever knows him at all.<br>
 
-Once he had a Yellow Rose.
-Once he was a Mister Right.
-Now he's running from the memory.
-He'll be moving on tonight.
-Come dawn, he'll find a waitress
-to sell him breakfast, and then
-he'll be that new guy again.
+Once he had a Yellow Rose.<br>
+Once he was a Mister Right.<br>
+Now he's running from the memory.<br>
+He'll be moving on tonight.<br>
+Come dawn, he'll find a waitress<br>
+to sell him breakfast, and then<br>
+he'll be that new guy again.<br>
 
-Tonight the Dodge will take him down a dozen dusty roads.
-At every lonely intersection,
-he'll flip a coin which way to go.
+Tonight the Dodge will take him down a dozen dusty roads.<br>
+At every lonely intersection,<br>
+he'll flip a coin which way to go.<br>
 
-Once he had a Yellow Rose.
-Once he was a Mister Right.
-Now he's running from the memory.
-He'll be moving on tonight.
-Come dawn, he'll find a waitress
-to sell him breakfast, and then
-he'll be that new guy again.
+Once he had a Yellow Rose.<br>
+Once he was a Mister Right.<br>
+Now he's running from the memory.<br>
+He'll be moving on tonight.<br>
+Come dawn, he'll find a waitress<br>
+to sell him breakfast, and then<br>
+he'll be that new guy again.<br>
 
 ---
