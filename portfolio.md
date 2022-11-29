@@ -4,7 +4,7 @@ title: Photo galleries
 permalink: /portfolio/
 ---
 
-<h3>Click a thumbnail to see a description.</h3>
+<h4>Click a thumbnail to see a description.</h3><br>
 
 {% for project in site.portfolio %}
 
