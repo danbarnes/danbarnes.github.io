@@ -1,6 +1,6 @@
 # Site settings
 title: *folio
-email: barnes@startribune.com
+email: dan@danbarnes.net
 description: > # this means to ignore newlines until "baseurl:"
   A simple, whitespace, helvetica based portfolio theme.
 baseurl:  # the subpath of your site, e.g. /blog/
