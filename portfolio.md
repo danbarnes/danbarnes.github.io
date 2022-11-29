@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Photos
+title: Photo galleries
 permalink: /portfolio/
 ---
 
