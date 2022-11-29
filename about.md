@@ -4,15 +4,15 @@ title: About me
 permalink: /about/
 ---
 
-<img class="col one left" src="/img/prof_pic.jpg">
+<img class="col one right" src="/img/prof_pic.jpg">
 
 <span class="contacticon center">
 	<a href="mailto:dan@danbarnes.net"><i class="fa fa-envelope-square"></i></a>
 	<a href="https://twitter.com/danbarnes" target="_blank"><i class="fa fa-twitter-square"></i></a>
-	<a href="https://mstdn.social/@danbarnes" target="_blank"><i class="fa fa-brands fa-mastodon"></i></a>
 	<a href="https://www.linkedin.com/in/danielmartinbarnes/" target="_blank"><i class="fa fa-linkedin-square"></i></a>
-	<a href="https://post.news/danbarnes" target="_blank"><i class="fa fa-cloud-plus"></i></a>
 	<a href="https://danbarnes.github.io" target="_blank"><i class="fa fa-github-square"></i></a></span>
+	<a href="https://mstdn.social/@danbarnes" target="_blank"><i class="fa fa-brands fa-mastodon"></i></a>
+	<a href="https://post.news/danbarnes" target="_blank"><i class="fa fa-cloud-plus"></i></a>
 
 
 I'm musical, verbal, visual and technical. Jack of all trades! Currently giving my creative side room to run. Doing genealogy, too -- it's like a jigsaw puzzle wrapped in a crossword.

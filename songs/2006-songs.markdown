@@ -13,7 +13,7 @@ Here are lyrics to three songs from 2007 that my friend [Brad Dunse](https://bra
 *All three songs below are copyright 2007, Dan Barnes and Brad Dunse*
 
 
-**Standing On The Shoulders Of Texas**
+**Standing On The Shoulders Of Texas**<br>
 By Dan Barnes and Brad Dunse<br>
 
 I been thumbing my way across Texas<br>
@@ -62,8 +62,8 @@ Standing on the shoulders of Texas,<br>
 far from alone.<br>
 
 ---
-**I'll Never Leave Texas**
-By Dan Barnes and Brad Dunse
+**I'll Never Leave Texas** <br>
+By Dan Barnes and Brad Dunse<br>
 
 I can leave half a beer on the table,<br>
 I can leave my dreams unfulfilled.<br>
@@ -113,8 +113,8 @@ call me loco but I know what I know,<br>
 I'll never leave Texas!<br>
 
 ---
-**That New Guy**
-By Dan Barnes and Brad Dunse
+**That New Guy** <br>
+By Dan Barnes and Brad Dunse<br>
 
 That new guy blows in out of nowhere,<br>
 in an old red Dodge -- heck, it's older than him.<br>
