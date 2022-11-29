@@ -4,7 +4,7 @@ title: Photo galleries
 permalink: /portfolio/
 ---
 
-<h4>Hover to see a description.</h4><br>
+<h4>Hover for description.</h4><br><br>
 
 {% for project in site.portfolio %}
 
