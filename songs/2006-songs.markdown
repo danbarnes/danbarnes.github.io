@@ -1,14 +1,19 @@
 ---
 layout: page
-title: songs
-date: 2006
+title: Songs
+date: 2007
 ---
+My most active hobby is writing songs -- mostly country and Americana, but occasionally poking at cabaret. I've always been a writer and I've always loved short, short fiction. Most of my songs tell stories.<br>
 
-In the late Oughts, I spent four years on a new hobby: Writing country songs. I've always been a writer who loved short, short fiction, and country is the last lyric-driven pop music genre, so when I stumbled onto a songwriting workshop faculty show one night in Nashville, I was hooked. But I'd always been a jazz fan, so it was a corner turn to think country! Here are lyrics to a Texas song trilogy that I wrote with my friend, Brad Dunse, who lived in Texas for a while. I'll get some of Brad's swell recordings linked here eventually. These lyrics are copyright 2007, Dan Barnes and Brad Dunse. <br>
+My songwriting started in 2005, when I stumbled onto a songwriting workshop faculty show in Nashville. I was instantly hooked. But I'd always been a jazz guy, so it was a corner turn to think country! (I still adore jazz.)<br>
+
+Here are lyrics to three songs that my friend <a href="https://braddunsemusic.com" target="Brad Dunse"</a> and I wrote in 2007, a Texas trilogy. Brad lived in Texas for a while. He's an ace performer, so I'll get some of his swell recordings linked here eventually. <br>
 
 ---
-<br>
-Standing On The Shoulders Of Texas<br>
+<em>All three songs below copyright 2007, Dan Barnes and Brad Dunse</em><br>
+
+
+<strong>Standing On The Shoulders Of Texas</strong><br>
 By Dan Barnes and Brad Dunse<br>
 
 I been thumbing my way across Texas<br>
@@ -57,7 +62,7 @@ Standing on the shoulders of Texas,<br>
 far from alone.<br>
 
 ---
-I'll Never Leave Texas<br>
+<strong>I'll Never Leave Texas</strong><br>
 By Dan Barnes and Brad Dunse<br>
 
 I can leave half a beer on the table,<br>
@@ -108,7 +113,7 @@ call me loco but I know what I know,<br>
 I'll never leave Texas!<br>
 
 ---
-That New Guy<br>
+<strong>That New Guy</strong><br>
 By Dan Barnes and Brad Dunse<br>
 
 That new guy blows in out of nowhere,<br>
@@ -126,7 +131,7 @@ Now he's running from the memory.<br>
 He'll be moving on tonight.<br>
 Come dawn, he'll find a waitress<br>
 to sell him breakfast, and then<br>
-he'll be that new guy, again.<br>
+he'll be that new guy again.<br>
 
 That new guy never crashed his new Mustang,<br>
 never lost his true love in the passenger seat.<br>
@@ -143,7 +148,7 @@ Now he's running from the memory.<br>
 He'll be moving on tonight.<br>
 Come dawn, he'll find a waitress<br>
 to sell him breakfast, and then<br>
-he'll be that new guy, again.<br>
+he'll be that new guy again.<br>
 
 Tonight the Dodge will take him down a dozen dusty roads.<br>
 At every lonely intersection,<br>
@@ -155,6 +160,6 @@ Now he's running from the memory.<br>
 He'll be moving on tonight.<br>
 Come dawn, he'll find a waitress<br>
 to sell him breakfast, and then<br>
-he'll be that new guy, again.<br>
+he'll be that new guy again.<br>
 
 ---

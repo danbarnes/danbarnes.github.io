@@ -1,7 +1,7 @@
 ---
 layout: page
-title: a wild new house
-description: some details of the reimagined home i share with elaine.
+title: A wild new house
+description: Some details of the reimagined home that I share with Elaine.
 img: /img/2_10_pct.jpg
 ---
 
