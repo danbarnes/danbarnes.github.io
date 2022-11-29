@@ -4,6 +4,8 @@ title: Photo galleries
 permalink: /portfolio/
 ---
 
+<h3>Click a thumbnail to see a description.</h3>
+
 {% for project in site.portfolio %}
 
 {% if project.redirect %}
