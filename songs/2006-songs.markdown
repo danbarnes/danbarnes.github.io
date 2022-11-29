@@ -3,16 +3,16 @@ layout: page
 title: Songs
 date: 2007
 ---
-My most active hobby is writing songs -- mostly country and Americana, but occasionally poking at cabaret. I've always been a writer and I've always loved short, short fiction. Most of my songs tell stories.<br>
+My most active hobby is writing songs -- country and Americana and occasionally poking at cabaret. 
 
-My songwriting started in 2005, when I stumbled onto a songwriting workshop faculty show in Nashville. I was instantly hooked. But I'd always been a jazz guy, so it was a corner turn to think country! (I still adore jazz.)<br>
+In 2005, I stumbled onto a songwriting workshop faculty show in Nashville and instantly was hooked. I've always been a writer and I've always loved short, short fiction. Most of my songs tell stories. I'd always been a jazz guy, so it was a corner turn to think country! (I still adore jazz.)
 
-Here are lyrics to three songs that my friend <a href="https://braddunsemusic.com" target="Brad Dunse"</a> and I wrote in 2007, a Texas trilogy. Brad lived in Texas for a while. He's an ace performer, so I'll get some of his swell recordings linked here eventually. <br>
+Here are lyrics to three songs that my friend [Brad Dunse](https://braddunsemusic.com) and I wrote in 2007, a Texas trilogy. Brad lived in Texas for a while. He's an ace performer, so I'll get his swell recordings linked here.
 
 ---
 <em>All three songs below copyright 2007, Dan Barnes and Brad Dunse</em><br>
 
-
+```
 <strong>Standing On The Shoulders Of Texas</strong><br>
 By Dan Barnes and Brad Dunse<br>
 
@@ -48,7 +48,7 @@ flesh and bone.<br>
 Standing on the shoulders of Texas,<br>
 far from alone.<br>
 
-Two days ago, I rode with an old Navy chaplain.<br>  
+Two days ago, I rode with an old Navy chaplain.<br>
 He said, Iraq or Korea, you carry on the same.<br>
 You’re breathing life into the memory of the fallen,<br>
 standing in their sea of white stones,<br>
@@ -60,7 +60,7 @@ Standing on the shoulders of Texas,<br>
 standing on the shoulders of Texas.<br>
 Standing on the shoulders of Texas,<br>
 far from alone.<br>
-
+```
 ---
 <strong>I'll Never Leave Texas</strong><br>
 By Dan Barnes and Brad Dunse<br>
