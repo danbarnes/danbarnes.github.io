@@ -6,7 +6,7 @@ permalink: /about/
 
 <img class="col one right" src="/img/prof_pic.jpg">
 
-<span class="contacticon center">
+<span class="contacticon left">
 	<a href="mailto:dan@danbarnes.net"><i class="fa fa-envelope-square"></i></a>
 	<a href="https://twitter.com/danbarnes" target="_blank"><i class="fa fa-twitter-square"></i></a>
 	<a href="https://www.linkedin.com/in/danielmartinbarnes/" target="_blank"><i class="fa fa-linkedin-square"></i></a>
@@ -23,6 +23,6 @@ Near the start of my career, I was one of America's very first digital news edit
 
 For historical interest, here's my [Minneapolis Star Tribune staff bio page](https://www.startribune.com/dan-barnes/6370528), still published at startribune.com as of November 2022. I couldn't be prouder to have worked for that terrific, ambitious organization in publishing 10,000+ issues. And with so many talented and dedicated colleagues, to have seen the Strib through generations of tech advances. 
 		
-<div class="col three caption">
+<div class="col two caption">
 	<strong>Yes, email's still the best way to reach me!</strong>
 </div>
