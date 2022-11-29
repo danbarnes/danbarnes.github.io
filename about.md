@@ -11,7 +11,7 @@ I'm musical, verbal, visual and technical. Jack of all trades! Currently giving 
 
 In <a href="http://startribune.com" target="_blank">Minnesota's largest newsroom</a>, 1998-2021, I was content management system administrator for print and a 24x7 tech advisor and troubleshooter for all kinds of newsgathering and print publishing tools and problems. Speaking both journalese and IT-ish, I did a lot of translating back and forth. I was a mechanic, a teacher, a builder, a herder of cats.
 
-<br/>
+I was one of America's very first digital news editors, on the Star Tribune's "TriStar Videonews" project of <em>1981</em>. I published news stories to Compuserve, a dial-up, non-graphical national community whose subscribers could pay $5/hour to read stories from the Minneapolis Tribune and Minneapolis Star, as well as the Washington Post, the New York Times, the San Francisco Chronicle and other papers. WAYYY pre-internet.<br/>
 <hr/>
 <br/>
 <span class="contacticon center">
