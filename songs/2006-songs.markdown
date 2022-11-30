@@ -9,6 +9,10 @@ In 2005, I stumbled onto a songwriting workshop faculty show in Nashville and in
 
 Here are lyrics to three songs from 2007 that my friend [Brad Dunse](https://braddunsemusic.com) and I wrote, a Texas trilogy. Brad lived in Texas for a while. He's an ace performer, so I'll get his swell recordings linked here.
 
+https://soundcloud.com/dan-barnes-989651291/better-flames-from-better-matches/s-EumezM9pVXl?si=b25becb3a4814a3ea67350ecca656908
+
+
+
 ---
 *All three songs below are copyright 2007, Dan Barnes and Brad Dunse*
 
